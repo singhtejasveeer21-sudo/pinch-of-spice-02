@@ -1,0 +1,8 @@
+{
+  "name": "Pinch of Spice Dwarka",
+  "description": "Explore the vibrant menu and elegant fine dining experience at Delhi's premier destination - Pinch of Spice Dwarka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
